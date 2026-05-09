@@ -1,27 +1,36 @@
-Cat Slideshow 🐱✨
+# Cat Slideshow 🐱✨
 
-A cute and aesthetic cat slideshow created using HTML, CSS, and JavaScript.
-The project uses JavaScript to dynamically switch between images with Previous and Next buttons. CSS fade animations and layered images are used to create a smooth cross-fade slideshow effect.
+A cute and aesthetic cat slideshow built using **HTML, CSS, and JavaScript**. The project dynamically switches between images using Previous and Next buttons, while CSS keyframe animations create a smooth cross-fade transition effect.
 
-🚀 Features
-Cute pastel themed UI
-Previous & Next navigation
-Smooth cross-fade animation
-Responsive image slideshow
-Built using pure HTML, CSS, and JavaScript
-🛠️ Technologies Used
-HTML5
-CSS3
-JavaScript
-📸 How It Works
+## 🚀 Features
 
-Images are stacked inside a container, and JavaScript dynamically creates and removes image elements to achieve a fading slideshow transition effect.
+* Cute pastel themed UI
+* Previous & Next navigation
+* Smooth cross-fade animation
+* Responsive slideshow layout
+* Built using pure HTML, CSS, and JavaScript
 
-▶️ Run the Project
+## 🛠️ Technologies Used
+
+* HTML5
+* CSS3
+* JavaScript
+
+## 📸 How It Works
+
+Images are layered inside a container, and JavaScript dynamically adds and removes image elements to create a fading slideshow transition effect.
+
+## ▶️ Run the Project
+
 Clone the repository:
+
+```bash id="m14j79"
 git clone https://github.com/Krupaj026/cat-slideshow.git
-Open the project folder
-Run index.html in your browser
-🌸 Author
+```
+
+Open the project folder and run `index.html` in your browser.
+
+## 🌸 Author
 
 Created by Krupa ✨
+
