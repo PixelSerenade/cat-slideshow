@@ -32,5 +32,5 @@ Open the project folder and run `index.html` in your browser.
 
 ## 🌸 Author
 
-Created by Krupa ✨
+Created by PixelSerenade ✨
 
